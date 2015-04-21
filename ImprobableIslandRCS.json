@@ -1,0 +1,19 @@
+{
+	rules: {
+		allowAutorespond: "true",
+		allowAutowoot: "true",
+		allowAutojoin: "false",
+		allowAutograb: "true"
+	},
+	ccc: {
+		"bouncer": "#333333",
+		"cohost": "#FFDD6F",
+		"residentdj": "#AC76FF",
+		"host": "#00FFFF",
+		"manager": "#FF3399"
+	},
+	images: {
+		background: "https://code.radiant.dj/require/bg/13.png",
+		playback: "http://i.imgur.com/LALnE5w.jpg"
+	}
+}
