@@ -1,0 +1,41 @@
+{
+    "author": "Alcia",
+    "colors": {
+        "background": "",
+        "chat": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "333333",
+            "cohost": "FFDD6F",
+            "residentdj": "AC76FF",
+            "host": "00FFFF",
+            "manager": "FF3399"
+        },
+        "footer": "",
+        "header": ""
+    },
+    "css": {
+        "font": [],
+        "import": [],
+        "rule": {}
+    },
+    "images": {
+        "background": "https://code.radiant.dj/require/bg/13.png",
+        "booth": "",
+        "icons": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": ""
+        },
+        "playback": "http://i.imgur.com/LALnE5w.jpg"
+    },
+    "rules": {
+        "allowAutojoin": "false",
+        "allowAutorespond": "true",
+        "allowAutowoot": "true"
+    }
+}
